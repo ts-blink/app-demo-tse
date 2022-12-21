@@ -10,7 +10,7 @@ export const TOKEN_ENDPOINT = `${TOKEN_SERVER}/api/gettoken/${USERNAME}`;
 export const TOKEN_ENDPOINT_API = `${TOKEN_SERVER}/api/v2/gettoken/ashish.shubham@thoughtspot.com`;
 
 // Cluster details
-export const TS_HOST = `nebula-tse-900-98.thoughtspotdev.cloud`;
+export const TS_HOST = `900-109-tse.thoughtspotdev.cloud`;
 
 // Liveboard
 export const LiveboardId = "4ee17df7-ea21-4c44-9437-55a4f001d147";
